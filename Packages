@@ -14,24 +14,6 @@ Description: installed app bundle IDs.
 Author: TD <sticktron@hotmail.com>
 Name: BundlleIDsXI0
 
-Package: com.Sn3pi.icone
-Name: Sn3pi icone
-Version: 1.4-1
-Depends: mobilesubstrate
-Filename: ./debs/com.Sn3pi.icone_1.4-1_iphoneos-arm.deb
-Size: 46314
-MD5sum: 467b35c2e59f319a89a64c55f838e34c
-SHA256: 09a69b668c8c89de7379711629c79640efeafa05ecaa6da014b6d6a403bcc328
-SHA1: 551f8ae5503c73eb1465b105b077bbbae5d29da3
-Author: AppWeleux.com <help@appweleux.com>
-Maintainer: AppWeleux.com <help@appweleux.com>
-Description: Icons Sn33pi Repo
-Section: sn3pi
-Architecture: iphoneos-arm
-Required: Yes
-Essential: Yes
-Priority: required
-
 
 Package: com.sn3pi.starvideo
 Name: VideoStar Hack
